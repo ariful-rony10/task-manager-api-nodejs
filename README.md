@@ -24,4 +24,4 @@
 
 ![Homepage](screenshots/task-completed.jpeg)
 ---
-The front end of this project is from - CodingAddict Channel
+The front end of this project is from - [John Smilga](https://www.youtube.com/watch?v=rltfdjcXjmk&t=294s)
