@@ -17,7 +17,7 @@ app.set('view engine', 'ejs')
 app.set('views', path.join(__dirname, 'views'));
 
 // PORT
-const port = 3000;
+const port = process.env.PORT || 3000;
 
 const startServer = async () => {
   try {
